@@ -1,0 +1,8 @@
+
+
+.tic-tac-toe {
+    height: 60vh;
+    width: 60vh;
+    display: flex;
+    flex-wrap: wrap;
+}
